@@ -1,3 +1,8 @@
 *.pyc
 db.sqlite3
 djangogirlsenv
+myvenv
+__pycache__
+staticfiles
+local_settings.py
+*.py[co]
